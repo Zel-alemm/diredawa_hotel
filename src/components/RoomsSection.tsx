@@ -51,8 +51,6 @@ const RoomsSection: React.FC<RoomsSectionProps> = ({ onViewDetails }) => {
             </div>
           ))}
         </div>
-
-        /* Mobile Slider */
         <div className="block md:hidden relative px-2">
           <div className="bg-white rounded-xl shadow-md overflow-hidden">
             <div className="flex flex-row">
