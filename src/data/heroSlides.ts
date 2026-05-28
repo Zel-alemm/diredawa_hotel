@@ -13,13 +13,13 @@ export const heroSlides: HeroSlide[] = [
   {
     id: 2,
     image: hero2,
-    title: "Luxury Accommodation",
-    description: "Enjoy our spacious rooms with modern amenities and breathtaking views."
+    title: "Diredawa Ras Hotel",
+    description: "Experience comfort, elegance and exceptional hospitality in the heart of Dire Dawa."
   },
   {
     id: 3,
     image: hero3,
-    title: "Fine Dining Experience",
-    description: "Savor delicious local and international cuisine prepared by expert chefs."
+   title: "Diredawa Ras Hotel",
+    description: "Experience comfort, elegance and exceptional hospitality in the heart of Dire Dawa."
   }
 ];
